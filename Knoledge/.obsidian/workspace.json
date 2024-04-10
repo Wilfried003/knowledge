@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "befbb0d35e699569",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e88fa37460b4481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b605c6a75c5c97b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Securité/WriteUp/Web/Spookifier.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d78adadbb1ca075",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8b2ac2ad3b88bfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdc86d6ee7dcb26b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e23b056fb9e9232",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "357c5c741ef57bb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "right": {
+    "id": "0e1e8b83fa987f7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f185a0ca950662c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b41a3a2cd93b853",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Securité/WriteUp/Web/Spookifier.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8443db383263039a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Securité/WriteUp/Web/Spookifier.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41f7ce422347dc85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d6045892620a512",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Securité/WriteUp/Web/Spookifier.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "b605c6a75c5c97b2",
+  "lastOpenFiles": [
+    "Screenshot_2024-04-10_16-41-06.png",
+    "Screenshot_2024-04-10_16-37-38.png",
+    "Securité/WriteUp/Web/Spookifier.md",
+    "Screenshot_2024-04-10_16-39-23.png",
+    "Screenshot_2024-04-10_16_36_33.png",
+    "Screenshot_2024-04-10_16_32_09.png",
+    "Welcome.md",
+    "MongoDB.md",
+    "Securité/Note/Vulnerabilité/Web/SSTI.md",
+    "Securité/Note/Vulnerabilité/Web/NoSQL injection.md",
+    "Dev",
+    "Securité/Note/Enumeration/Web/Path transversal.md",
+    "Securité/WriteUp/Sans titre.md",
+    "Securité/WriteUp/Windows",
+    "Securité/WriteUp/Linux",
+    "Securité/WriteUp/Reversing",
+    "Securité/WriteUp/Crypto",
+    "Securité/WriteUp/Web",
+    "Securité/WriteUp",
+    "Securité/Note/Enumeration/Web/SSTI.md",
+    "Securité/Note/Enumeration/Web/Files upload vulnerabilities.md",
+    "Securité/Note/Enumeration/Web/Command Injection.md",
+    "Securité/Note/Enumeration/Web/NoSQLI.md",
+    "Securité/Note/Enumeration/Web/SQLI.md",
+    "create a link.md",
+    "Securité/Note/Vulnerabilité/Reseau",
+    "Securité/Note/Enumeration/Reseau",
+    "Securité/Note/Enumeration/Web"
+  ]
+}
