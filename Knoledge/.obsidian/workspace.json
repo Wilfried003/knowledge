@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Securité/WriteUp/Web/Spookifier.md",
+                "file": "Securité/Note/Vulnerabilité/Web/NoSQL injection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Securité/WriteUp/Web/Spookifier.md",
+                "file": "Securité/Note/Vulnerabilité/Web/NoSQL injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Securité/WriteUp/Web/Spookifier.md",
+                "file": "Securité/Note/Vulnerabilité/Web/NoSQL injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Securité/WriteUp/Web/Spookifier.md"
+                "file": "Securité/Note/Vulnerabilité/Web/NoSQL injection.md"
               }
             }
           }
@@ -149,16 +149,16 @@
   },
   "active": "b605c6a75c5c97b2",
   "lastOpenFiles": [
+    "Securité/WriteUp/Web/Spookifier.md",
+    "Securité/Note/Vulnerabilité/Web/NoSQL injection.md",
+    "Securité/Note/Vulnerabilité/Web/SSTI.md",
     "Screenshot_2024-04-10_16-41-06.png",
     "Screenshot_2024-04-10_16-37-38.png",
-    "Securité/WriteUp/Web/Spookifier.md",
     "Screenshot_2024-04-10_16-39-23.png",
     "Screenshot_2024-04-10_16_36_33.png",
     "Screenshot_2024-04-10_16_32_09.png",
     "Welcome.md",
     "MongoDB.md",
-    "Securité/Note/Vulnerabilité/Web/SSTI.md",
-    "Securité/Note/Vulnerabilité/Web/NoSQL injection.md",
     "Dev",
     "Securité/Note/Enumeration/Web/Path transversal.md",
     "Securité/WriteUp/Sans titre.md",

@@ -8,7 +8,7 @@ tags:
 ---
 # Description 
 
-There's a new trend of an application that generates a spooky name for you. Users of that application later discovered that their real names were also magically changed, causing havoc in their life. Could you help bring down this application?
+There's a new trend of an application that generates a spooky name for you. Users of that application later discovered that their real names were also magically changed, causing havoc in their life. Could you help bring down this application ?
 
 # Write Up
 
@@ -22,15 +22,15 @@ Lorsqu'on entre quelque chose, par exemple *azerty*, on voit le résultat suivan
 
 *!! Attention à l'url*
 
-Et si on essayait de faire une attaque [[Knoledge/Securité/Note/Vulnerabilité/Web/SSTI|SSTI]] en testant des opérations voir [[ https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection | Hacktricks SSTI ]] ou [[https://portswigger.net/web-security/server-side-template-injection | Portswigger]] ?
+Et si on essayait de faire une attaque [[SSTI|SSTI]] en testant des opérations voir [[ https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection | Hacktricks SSTI ]] ou [[https://portswigger.net/web-security/server-side-template-injection | Portswigger]] ?
 
 #### Détection
 
-![[Knoledge/Securité/Note/Vulnerabilité/Web/SSTI#^9a413b]]
-![[Knoledge/Securité/Note/Vulnerabilité/Web/SSTI#^397cac]]
+![[SSTI#^9a413b]]
+![[SSTI#^397cac]]
 
 Ce site peut être vulnérable à une attaque SSTI
-#### Identification [[Knoledge/Securité/Note/Vulnerabilité/Web/SSTI#^637bc7|(ref)]]
+#### Identification [[SSTI#^637bc7|(ref)]]
 
 
 Ce site est vulnérable une attaque SSTI car elle interprète l'opération 
