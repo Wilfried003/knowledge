@@ -36,7 +36,7 @@ Une manière de se jouer des conditions ici est de mettre le type à *true*, et 
 ```
 
 on a ensuite le flag :
-```
+```flag
 HTB{juggl1ng_1s_d4ng3r0u5!!!}
 ```
 

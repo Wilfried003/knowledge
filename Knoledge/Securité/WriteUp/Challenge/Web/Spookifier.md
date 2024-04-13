@@ -57,6 +57,6 @@ ${open('/flag.txt').read()}
 
 On obtient le flag
 
-```copier
+```flag
 HTB{t3mpl4t3_1nj3ct10n_C4n_3x1st5_4nywh343!!}
 ```

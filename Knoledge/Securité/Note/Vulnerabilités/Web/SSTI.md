@@ -51,3 +51,5 @@ Lien de référence intéressante :  [[ https://book.hacktricks.xyz/pentesting-w
 >  - Ne pas exécuter les données envoyées par l'utilisateur ou si besoin métier oblige, l'assainir 
 >  - Utiliser un environnement de sandBox et s'assurer qu'il soit bien configurer
 >  - Utiliser des Templates logic-less comme 'Mustache' qui sépare au plus le rendu visuel de l'interprétation du code (pas d'interprétation de code logique).
+>  - Utilisé des outils d'analyse de code
+>  - 

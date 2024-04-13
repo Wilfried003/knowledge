@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7100be2a218375a6",
+        "id": "9f22a511a90cd772",
         "type": "tabs",
         "children": [
           {
-            "id": "3112889c6a56f0a7",
+            "id": "f10ff18cb6e9693e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knoledge/Securité/WriteUp/Web/Spookifier.md",
+                "file": "Knoledge/Securité/WriteUp/Challenge/Web/SpookTastic.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "eedc218826d1a7ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa3d12cb0ec484e1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Knoledge/Securité/WriteUp/Challenge/Web/SpookTastic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Knoledge/Securité/WriteUp/Challenge/Web/SpookTastic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Knoledge/Securité/WriteUp/Challenge/Web/SpookTastic.md"
               }
             }
           }
@@ -167,14 +146,21 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "eedc218826d1a7ee",
+  "active": "f10ff18cb6e9693e",
   "lastOpenFiles": [
-    "Knoledge/Securité/WriteUp/Web/Spookifier.md",
+    "Knoledge/Securité/Note/Vulnerabilités/Web/SSTI.md",
+    "Knoledge/Securité/Note/Vulnerabilités/Web/XSS.md",
+    "Knoledge/Securité/WriteUp/Challenge/Web/SpookTastic.md",
+    "Knoledge/Securité/WriteUp/Challenge/Web/Juggling facts.md",
+    "Knoledge/Securité/WriteUp/Challenge/Web/Spookifier.md",
+    "Pasted image 20240413030152.png",
+    "Pasted image 20240412115602.png",
+    "Knoledge/MongoDB.md",
     "TODO.md",
+    "Knoledge/Securité/WriteUp/Web/Spookifier.md",
     "Knoledge/Securité/Note/Vulnerabilité/Web/SSTI.md",
     "Pasted image 20240410171909.png",
     "Pasted image 20240410171014.png",
-    "Knoledge/MongoDB.md",
     "Pasted image 20240410165040.png",
     "Screenshot_2024-04-10_16-41-06.png",
     "Knoledge/Screenshot_2024-04-10_16-41-06.png"
