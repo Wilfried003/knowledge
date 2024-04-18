@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f2a716ac395c07d4",
+        "id": "c60c3a09175c22f5",
         "type": "tabs",
         "children": [
           {
-            "id": "f10ff18cb6e9693e",
+            "id": "745fba65b6a8678a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knoledge/OS/Linux/Généralité.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knoledge/OS/Linux/Généralité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knoledge/OS/Linux/Généralité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knoledge/OS/Linux/Généralité.md"
+              }
             }
           }
         ]
@@ -138,10 +146,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f10ff18cb6e9693e",
+  "active": "745fba65b6a8678a",
   "lastOpenFiles": [
-    "Knoledge/Securité/Note/Vulnerabilités/Web/Path Traversal.md",
+    "Knoledge/OS/Linux",
     "Knoledge/Securité/Note/Vulnerabilités/Web/XSS.md",
+    "Knoledge/OS/Linux/Généralité.md",
+    "Knoledge/OS",
+    "Knoledge/Securité/Note/Vulnerabilités/Web/Path Traversal.md",
+    "Knoledge/Securité/WriteUp/Challenge/Web/Trapped Source.md",
+    "Knoledge/Securité/WriteUp/Challenge/Web/CandyVault.md",
     "Knoledge/Securité/Note/Vulnerabilités/Web/SSTI.md",
     "Knoledge/Securité/Note/Vulnerabilités/Web/NoSQL injection.md",
     "Knoledge/Securité/Note/Vulnerabilités/Web/OS Command Injection.md",
@@ -156,10 +169,8 @@
     "TODO.md",
     "Knoledge/Welcome.md",
     "Knoledge/MongoDB.md",
-    "Knoledge/Securité/WriteUp/Challenge/Web/Trapped Source.md",
     "Knoledge/Securité/WriteUp/Challenge/Web/SpookTastic.md",
     "Knoledge/Securité/WriteUp/Challenge/Web/Juggling facts.md",
-    "Knoledge/Securité/WriteUp/Challenge/Web/CandyVault.md",
     "Knoledge/Securité/WriteUp/Challenge/Web/Sans titre",
     "Pasted image 20240414000150.png",
     "Pasted image 20240414000146 1.png",
