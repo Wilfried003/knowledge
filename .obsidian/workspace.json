@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbfb4f826683e411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knoledge/OS/Linux/Le shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knoledge/OS/Linux/Généralité.md",
+                "file": "Knoledge/OS/Linux/Le shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knoledge/OS/Linux/Généralité.md",
+                "file": "Knoledge/OS/Linux/Le shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knoledge/OS/Linux/Généralité.md"
+                "file": "Knoledge/OS/Linux/Le shell.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "745fba65b6a8678a",
+  "active": "fbfb4f826683e411",
   "lastOpenFiles": [
+    "Knoledge/OS/Linux/Le shell.md",
+    "Knoledge/OS/Linux/Généralité.md",
     "Knoledge/OS/Linux",
     "Knoledge/Securité/Note/Vulnerabilités/Web/XSS.md",
-    "Knoledge/OS/Linux/Généralité.md",
     "Knoledge/OS",
     "Knoledge/Securité/Note/Vulnerabilités/Web/Path Traversal.md",
     "Knoledge/Securité/WriteUp/Challenge/Web/Trapped Source.md",

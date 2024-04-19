@@ -33,3 +33,10 @@ Il existe plusieurs distributions linux en fonction de l'itulisation
 > Activer les pares-feux 
 > Désactiver les services inutilisés
 > Utilisés les mots de passe et des comptes utilisateurs forts
+
+### Le noyau linux
+
+Le système linux est divisé en trois parties:
+> La partie matérielle : CPU, disque, ...
+> Le noyau : c'est le pont entre le matériel et la partie logique de l'ordinateur
+> L'espace utilisateur : ou l'utilisateur interagit avec l'OS
