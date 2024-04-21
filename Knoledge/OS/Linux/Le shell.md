@@ -126,4 +126,46 @@ rm -f               forcer la suppression d'un fichier
 rm -i               pour demander une confimation (interaction)
 ```
 
+### La commande find
+```
+find -name nomdufichier
+find home/kali -name *.jeg 
+find -type d -name nomdufichier (d comme directory)
+```
 
+### La commande help
+```
+help echo    
+echo --help  pour certaine commande
+```
+
+### La commande Manual
+```
+man ls
+```
+
+### La commande Whatis
+```
+whatis ls
+```
+petite description de la commande.
+
+### La commande alias
+```
+alias nomalias='commande de alias'
+alias lrt='ls -lrt'
+unalias lrt
+```
+
+Les alias ne sont pas persistant, ils sont supprimés au redémarrage du système.
+Pour persister cela, il faut les ajouter dans le fichier
+```
+~/.bashrc
+```
+
+### La commande exit
+```
+exit
+logout
+```
+Pour sortir de la console
