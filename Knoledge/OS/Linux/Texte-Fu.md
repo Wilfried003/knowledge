@@ -141,5 +141,99 @@ tail -c10 10lostcaratere
 
 Une option intéressant qu'on a avec cette commande est *-f* qui permet d'interagir directement avec  le fichier en mettant à jour les dernières lignes si le fichier est modifié.
 ```
-tail -f 10updatelastline
+tail -f 10updatelastlin
 ```
+
+### Les commandes expand et unexpand
+Les commandes *expand* et *unexpand* permettent respectivement de remplacer les *tab* par des *espaces* et inversement..
+```
+expand filewithtab
+unexpand -a filewithspace
+```
+
+### Les commandes join et split
+La commande *join* permet de joindre deux fichiers en fonction d'une colonne de jointure. 
+```
+file1
+1 bob
+2 franck
+
+file2
+1 25
+3 30
+
+join file1 file2
+1 bob 25
+```
+Des options sur le séparateur de jointure sont possibles grâce à l'option *-t* 
+Même si de base la jointure est la première colonne des fichiers, il est également possible de spécifier par l'option -1 (prémier fichier) et -2 (deuxième fichier).
+```
+join -1 2 -2 1 file1 file2
+```
+
+Contrairement à la commande *join*, la commande *split* permet d'écarter un fichier en deux.
+```
+split file
+```
+
+### La commande sort
+Elle permet de trier un fichier en fonction des lignes. 
+```
+sort file
+sort -r reverseorderfile
+sort -n numericorderfile
+```
+
+### La commande translate
+Cette commande permet de transformer un ensemble de caractères entrés en un autre ensemble de caractères. 
+```
+echo hello | tr a-z A-Z
+echo hello | tr 'l' 'L'
+echo hello | tr l L
+echo hello | tr -d 'l'
+```
+l'option *-d* permet de supprimer le string désigné.
+
+### La commande uniq
+De base, elle permet de supprimer les doublons présent dans un fichier.
+```
+uniq filewithdoublons
+uniq -u file
+uniq -d file
+uniq -c contfile
+```
+*-d* permet de retourner que les lignes dupliquées
+-c donne le nombre d'occurrence de chaque ligne
+-u donne les lignes uniques
+
+Malheureusement, cette commande ne peut supprimer que les  doublons qui sont successive. C'est pour cela qu'il est souvent utilisé avec la commande *sort*.
+```
+sort file | uniq 
+```
+
+### Les commandes Word Count et Number lines
+La commande *wc* permet retourne le nombre respectivement le nombre de lignes, de noms, et de bytes d'un fichier.
+```
+wc file
+wc -lwc file
+```
+
+Une autre commande pour compter le nombre de ligne est la commande
+```
+nl file
+```
+
+### La commande grep
+Très utile, elle recherche dans un texte si un chaine de caractère est présent.
+```
+grep something file
+grep -i SoMething file
+```
+L'option *-i* permet de ne pas faire attention à la casse.
+
+```
+ls /etc | grep -i ".txt$"
+```
+
+Cette dernière commande regarde dans /etc s'il n'y pas de fichier se terminant exactement par *.txt*.
+
