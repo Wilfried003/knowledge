@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d04732ba8baa94e6",
+        "id": "c3d70685cb19080d",
         "type": "tabs",
         "children": [
           {
-            "id": "87931778dcef209d",
+            "id": "36bd1528ced68caf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knoledge/OS/Linux/Gestion des utilisateurs.md",
+                "file": "Knoledge/OS/Linux/Le noyau.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knoledge/OS/Linux/Gestion des utilisateurs.md",
+                "file": "Knoledge/OS/Linux/Le noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knoledge/OS/Linux/Gestion des utilisateurs.md",
+                "file": "Knoledge/OS/Linux/Le noyau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knoledge/OS/Linux/Gestion des utilisateurs.md"
+                "file": "Knoledge/OS/Linux/Le noyau.md"
               }
             }
           }
@@ -146,13 +146,16 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "87931778dcef209d",
+  "active": "36bd1528ced68caf",
   "lastOpenFiles": [
-    "Knoledge/OS/Linux/Texte-Fu.md",
+    "Knoledge/OS/Linux/Le noyau.md",
+    "Périphérique.md",
+    "Knoledge/OS/Linux/Les Autorisations.md",
+    "Knoledge/OS/Linux/Le shell.md",
     "Knoledge/OS/Linux/Gestion des utilisateurs.md",
+    "Knoledge/OS/Linux/Texte-Fu.md",
     "Knoledge/OS/Linux/Généralité.md",
     "Sans titre.md",
-    "Knoledge/OS/Linux/Le shell.md",
     "Knoledge/OS/Linux",
     "Knoledge/Securité/Note/Vulnerabilités/Web/XSS.md",
     "Knoledge/OS",
